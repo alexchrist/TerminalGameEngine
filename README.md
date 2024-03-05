@@ -3,4 +3,4 @@
 
 ## To Run
 1. Make sure that the [.net SDK](https://dotnet.microsoft.com/en-us/download) is installed
-2. Run 'dotnet run game' from root directory
+2. Run `dotnet run game` from root directory
